@@ -4,6 +4,7 @@
  * Usage:
  *    selector {
  *        @extend %modal;
+ *        @configmod;
  *    }
  */
 /*
